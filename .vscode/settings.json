@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/sulaco/Desktop/Code/Projects/RobotCorp-Cert1/my-rsb-robot/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
